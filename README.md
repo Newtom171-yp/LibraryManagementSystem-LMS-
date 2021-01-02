@@ -1,5 +1,6 @@
 # LibraryManagementSystem-LMS-
 This is a full Library Management System Website
+
 The project has following functionalities:
 
 Student:
